@@ -26,8 +26,13 @@ The missions files already shipped in the <b>Missions\EN\QuickStart</b> folder a
 
 If not some manual setup may be necessary in the mission editor. The how to is in the Handbook also.
 
+<hr>
+
+<p align="center">
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z47nFUmBgfE/0.jpg)](https://www.youtube.com/watch?v=z47nFUmBgfE)
+  
+</p>
 
 
 
