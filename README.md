@@ -1,4 +1,4 @@
-# Bachem Ba349 Natter Experimental DCS Module
+# Bachem Ba-349 Natter Experimental DCS Module
 
 ## Created and programmed by Toni Novak
 
