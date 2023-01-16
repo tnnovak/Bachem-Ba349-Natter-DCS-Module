@@ -15,11 +15,11 @@ There are actually 2 modules:
 * The Natter airplane module proper
 * The Launch Patform module
 
-Unzip them bot in your <b>Saved Games\DCS\Mods\Aircraft</b> folder
+Unzip them both in your <b>Saved Games\DCS\Mods\Aircraft</b> folder
 
-Then follow the instructions in the <b>Section "Quick Start" in the Handbook</b>:
+Then follow the instructions in the <b>Section "Quick Start" in the Handbook</b>
 
-[Handbook](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/Bachem%20Ba-349%20Natter%20Handbook.pdf)
+[Bachem Ba349 Natter Experimental DCS Module Handbook](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/Bachem%20Ba-349%20Natter%20Handbook.pdf)
 
 For the takeoff sequence to work with the platform some mission LUA scripting is necessary to spawn the plafform.
 The missions files already shipped in the <b>Missions\EN\QuickStart</b> folder already have the LUA scripts in them and hopefully they should work.
