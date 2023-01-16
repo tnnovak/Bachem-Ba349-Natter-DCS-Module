@@ -1,22 +1,23 @@
-# Bachem-Ba349-Natter-DCS-Module
+# Bachem Ba349 Natter Experimental DCS Module
 
-Created and programmed by Toni Novak
+## Created and programmed by Toni Novak
+
 [toninovak@gmail.com](toninovak@gmail.com)
 
 [More about here](https://tnnvk.com/bachem-ba-349-natter-dcs-module/)
 
-Get the last release here:
+Get the last release:
 
 Version 0.9 Beta [here](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/releases/tag/v0.9)
 
 There are actually 2 modules:
 
-The Natter airplane module proper
-The Launch Patform module
+* The Natter airplane module proper
+* The Launch Patform module
 
 Unzip them bot in your <b>Saved Games\DCS\Mods\Aircraft</b> folder
 
-Then follow the instructions in the Section "Quick Start" in the Handbook:
+Then follow the instructions in the <b>Section "Quick Start" in the Handbook</b>:
 
 [Handbook](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/Bachem%20Ba-349%20Natter%20Handbook.pdf)
 
