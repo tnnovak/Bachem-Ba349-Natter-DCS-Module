@@ -2,9 +2,9 @@
 
 ## Created and programmed by Toni Novak
 
-![Natter](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/pictures/ground.JPG)
-
 [toninovak@gmail.com](toninovak@gmail.com)
+
+![Natter](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/pictures/ground.JPG)
 
 [More about here](https://tnnvk.com/bachem-ba-349-natter-dcs-module/)
 
@@ -35,6 +35,10 @@ If not some manual setup may be necessary in the mission editor. The how to is i
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z47nFUmBgfE/0.jpg)](https://www.youtube.com/watch?v=z47nFUmBgfE)
   
 </p>
+
+![Natter](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/pictures/8214-146-brp144001.jpg)
+
+![Natter](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/pictures/bb_0850_bachemamabschussgeruest_lupe.jpg)
 
 
 
