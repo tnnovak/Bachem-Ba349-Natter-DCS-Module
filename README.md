@@ -2,7 +2,7 @@
 
 ## Created and programmed by Toni Novak
 
-![Natter](https://www.dpma.de/images/gemeinfrei_cc/b_erfindungen_technik/bb_0850_bachemamabschussgeruest_lupe.jpg)
+![Natter](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Module/blob/main/pictures/ground.JPG)
 
 [toninovak@gmail.com](toninovak@gmail.com)
 
