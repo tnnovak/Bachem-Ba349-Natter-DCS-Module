@@ -14,8 +14,8 @@ Version 0.9 Beta [here](https://github.com/tnnovak/Bachem-Ba349-Natter-DCS-Modul
 
 There are actually 2 modules:
 
-* The Natter airplane module proper
-* The Launch Patform module
+* The Natter airplane module propper
+* The Launch Platform mod
 
 Unzip them both in your <b>Saved Games\DCS\Mods\Aircraft</b> folder
 
